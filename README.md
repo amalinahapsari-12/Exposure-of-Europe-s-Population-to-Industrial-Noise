@@ -4,14 +4,14 @@ industrial-noise-europe/
 │
 ├── data/
 │   ├── raw/
-│   │   └── industrial_noise_raw.csv
+│   │   └── Noise from industry.csv
 │   └── processed/
-│       └── industrial_noise_clean.csv
+│       └── noise_exposure_country_level.csv
 │
 ├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_analysis_visuals.ipynb
-│   └── 03_summary_statistics.ipynb
+│   └── Noise from Industry (Europe).ipynb
+│  
+│   
 │
 ├── visuals/
 │   ├── viz1_percent_population_exposed.png
